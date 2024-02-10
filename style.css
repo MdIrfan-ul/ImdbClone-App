@@ -1,0 +1,53 @@
+/* Common Styling */
+
+* {
+    margin: 0px !important;
+    padding: 0px;
+    transition: all .5s ease-in;
+}
+
+.search-text {
+    text-align: center;
+    /* content:'Search for movies🎬'; */
+    font-size: 2rem;
+    color: black;
+}
+
+/* Search List Container */
+.search-list {
+    width: 50%;
+    text-align: center;
+}
+
+.search-list .search-list-item:Hover {
+    background-color: #ffffff;
+}
+
+.search-list-item {
+    display: flex;
+    align-items: center;
+}
+
+.search-item-thumbnail img {
+    width: 60px;
+    object-fit: cover;
+    margin-right: 1rem;
+}
+
+.search-item-info h3 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.search-item-info p {
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    font-weight: 600;
+    opacity: 0.6;
+}
+
+/* Js Related Css Styling */
+.hide-search-list {
+    display: none;
+}
