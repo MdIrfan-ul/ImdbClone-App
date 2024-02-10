@@ -1,4 +1,4 @@
-# ImdbClone-App
+# ImdbClone-App 🎬
 
 This is a simple IMDb clone project built using HTML, CSS, Bootstrap, and Vanilla JavaScript. The app utilizes the OMDB API to search for movies and display information about them. Users can also mark movies as their favorites and view them later.
 
@@ -30,11 +30,6 @@ This is a simple IMDb clone project built using HTML, CSS, Bootstrap, and Vanill
 * To view your favorite movies, click on the "favourites" on the navbar.
 * To remove a movie from your favorites, click on the "🗑️" button on the favorites page. You will receive an alert confirming that the movie has been removed from favorites.
 
-## Screenshots
-
-![Screenshot 1](Images/ScreenShots/SS-1.png)
-![Screenshot 2](Images/ScreenShots/SS-2.png)
-![Screenshot 3](Images/ScreenShots/SS-3.png)
 
 ## Dependencies
 
@@ -46,6 +41,15 @@ This project relies on standard web technologies without additional libraries or
 - **Bootstrap**: For styling the UI.
 - No external libraries or frameworks are utilized, ensuring a lightweight and self-contained implementation.
 
+## Hosting
+- The project is Hosted on [![Netlify Status](https://api.netlify.com/api/v1/badges/76f96ff9-4262-4232-9ded-355b2344b545/deploy-status)](https://app.netlify.com/sites/clonemovie-webapp/deploys).
+- The Website link is [Link](https://clonemovie-webapp.netlify.app/)
+
+## Screenshots
+
+![Screenshot 1](Images/ScreenShots/SS-1.png)
+![Screenshot 2](Images/ScreenShots/SS-2.png)
+![Screenshot 3](Images/ScreenShots/SS-3.png)
 
 ## License
 
